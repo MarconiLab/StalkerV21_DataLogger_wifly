@@ -1,6 +1,6 @@
 StalkerV21_DataLogger_wifly
 ===========================
-STALKER + WIFLY Low power to send temperature and batterry status to Ubidots
+STALKER + WIFLY Low power to send RTC temperature and batterry status to Ubidots.
 
 ##Libraries
 WiflyHQ
