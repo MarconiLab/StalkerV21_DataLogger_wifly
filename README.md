@@ -10,5 +10,5 @@ https://github.com/harlequin-tech/WiFlyHQ
 Stalker 
 http://www.seeedstudio.com/wiki/Seeeduino_Stalker_v2.3
 
-WifLy Shield
+Wifly Shield
 https://www.sparkfun.com/products/10822
