@@ -1,6 +1,6 @@
 //STALKER + WIFLY Low power
 //Send temp and batt to Ubidots
-//Autor: RJC
+//Author: Rodrigo Carbajales MarconiLab
 
 #include <MemoryFree.h>
 #include <Arduino.h>
